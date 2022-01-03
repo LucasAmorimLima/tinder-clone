@@ -1,10 +1,10 @@
 .card{
     position: relative;
     background-color: #fff;
-    width: 600px;
-    padding: 20px;
+    width: 400px;
+    padding: 40px;
     max-width: 85vw;
-    height: 50vh;
+    height: 55vh;
     box-shadow: 0px 18px 53px 0px rgba(0, 0, 0, 0.3);
     border-radius: 20px;
     background-size: cover;
@@ -14,7 +14,8 @@
 {
     display: flex;
     justify-content: center;
-    margin-top: 10vh;
+    margin-top: 2vh;
+    
 }
 .swipe{
     position: absolute;
